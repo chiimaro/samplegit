@@ -16,8 +16,11 @@ a {
 .color { 
   display: flex;
   flex-wrap: wrap;
+}
 
- 
+.color div {
+  flex: auto;
+  width: 50%;
 }
 
 .red {
