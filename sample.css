@@ -13,6 +13,7 @@ a {
 
 .color { 
   display: flex;
+  flex-direction: column;
 }
 
 .red {
@@ -52,8 +53,7 @@ a {
   background: #ff863f;
   margin: 5px;
   padding: 10px;
-/*オレンジ同士の距離 10px
-青divのtopとleftからの距離  40px（marginで位置の指定）*/
+/*青divのtopとleftからの距離  40px（marginで位置の指定）*/
 }
 
 .yellow {
