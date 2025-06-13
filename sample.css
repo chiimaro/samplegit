@@ -31,7 +31,7 @@ a {
   height: 40px;
   margin-left: 10px;
   background: #6729a0;
-/*周りの白い余白の部分の幅 10px*/
+  margin: 10px;
 }
 
 .green {
