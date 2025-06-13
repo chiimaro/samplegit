@@ -13,7 +13,7 @@ a {
 
 .color { 
   display: flex;
-  flex-direction: column;
+  flex: auto;
 }
 
 .red {
