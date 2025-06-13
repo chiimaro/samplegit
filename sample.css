@@ -1,3 +1,5 @@
+/* frist commit */
+
 * {
   box-sizing: border-box;
 }
@@ -17,7 +19,7 @@ a {
 }
 
 .color div {
-  flex: auto;
+  
   width: 50%;
 }
 
