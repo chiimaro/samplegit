@@ -18,9 +18,8 @@ a {
   flex-direction: column;
 }
 
-.color a {
+.color-a {
   display: flex;
-  flex-direction: row;
 }
 
 .red {
