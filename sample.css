@@ -15,6 +15,7 @@ a {
 
 .color { 
   display: flex;
+  flex-direction: column;
 }
 
 .red {
