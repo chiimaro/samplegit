@@ -16,7 +16,7 @@ a {
   flex-wrap: wrap;
 }
 
-.color {
+.color div {
   flex: auto;
   width: 50%;
 }
