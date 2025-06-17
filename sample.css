@@ -25,15 +25,24 @@ a {
   height: 100px;
   background: #f00;
   align-items: center;
+  padding-left: 10px;
 }
 
 .purple {
   display: flex;
   width: 40px;
   height: 40px;
-  margin-right: 10px;
+  margin-left: 10px;
   background: #6729a0;
   padding: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.white1 {
+  width: 100%;
+  height: 100%;
+  background: white;
 }
 
 .white {
