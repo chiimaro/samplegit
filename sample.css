@@ -25,7 +25,6 @@ a {
   height: 100px;
   background: #f00;
   align-items: center;
-  padding-left: 10px;
 }
 
 .purple {
@@ -40,6 +39,8 @@ a {
 }
 
 .white1 {
+  width: 100%;
+  height: 100%;
   background: white;
 }
 
