@@ -30,12 +30,8 @@ a {
 
 .white {
   background: white;
-  padding: 10px;
-  margin-left: 10px;
-  box-sizing: border-box;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  margin-top: 20px;
+  margin-right: 20px;
 }
 
 .purple {
