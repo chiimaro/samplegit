@@ -24,6 +24,7 @@ a {
   width: 400px;
   height: 100px;
   background: #f00;
+  padding-left: 10px; 
 }
 
 .purple {
@@ -32,6 +33,8 @@ a {
   height: 40px;
   margin-left: 10px;
   background: #6729a0;
+  padding: 10px;
+  box-sizing: border-box;
 }
 
 .white {
