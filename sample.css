@@ -25,16 +25,13 @@ a {
   background: #f00;
 }
 
-.color-a {
-  background-color: white;
-  padding: 10px;
-}
-
 .purple {
   width: 40px;
   height: 40px;
   margin-left: 10px;
   background: #6729a0;
+  background-color: white;
+  padding: 10px;
 }
 
 .white {
