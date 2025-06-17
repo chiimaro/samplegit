@@ -28,16 +28,9 @@ a {
   padding-left: 10px;
 }
 
-.white1 {
-  background: white;
-  padding: 5px;
-  margin-left: 10px;
-  width: 60px;
-  height: 60px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  box-sizing: border-box;
+.white {
+  top: 20px;
+  right: 20px;
 }
 
 .purple {
@@ -45,11 +38,6 @@ a {
   height: 40px;
   background: #6729a0;
   margin-left: 10px;
-}
-
-.white {
-  top: 20px;
-  right: 20px;
 }
 
 .color-b {
