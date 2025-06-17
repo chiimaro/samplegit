@@ -20,6 +20,7 @@ a {
 }
 
 .red {
+  display: flex;
   width: 400px;
   height: 100px;
   background: #f00;
