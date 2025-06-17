@@ -1,5 +1,5 @@
 /* frist commit */
-/*紫とオレンジを修正*/
+/*オレンジを修正*/
 
 * {
   box-sizing: border-box;
@@ -29,7 +29,7 @@ a {
   padding-right: 20px;
 }
 
-.white-box {
+.white {
   background: white;
   padding: 10px;
   display: flex;
