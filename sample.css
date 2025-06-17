@@ -28,27 +28,18 @@ a {
   padding-left: 10px;
 }
 
-.white {
+.white-box {
   background: white;
   padding: 10px;
-  margin-left: 10px;
-  box-sizing: border-box;
   display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 60px; 
-  height: 60px;
-}
-
-.white:first-child {
-  margin-left: 0;
+  gap: 10px;
+  border: 1px solid red;
 }
 
 .purple {
   width: 40px;
   height: 40px;
   background: #6729a0;
-  margin-left: 0;
 }
 
 .color-b {
