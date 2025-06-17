@@ -31,6 +31,7 @@ a {
   margin-left: 10px;
   background: #6729a0;
   padding: 10px;
+  background-color: white;
 }
 
 .white {
@@ -59,12 +60,6 @@ a {
   height: 40px;
   background: #ff863f;
   /*青divのtopとleftからの距離  40px（marginで位置の指定）*/
-}
-
-.color-c {
-  background-color: white;
-  margin: 5px;
-  padding: 10px;
 }
 
 .yellow {
