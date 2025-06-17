@@ -19,19 +19,15 @@ a {
   flex-direction: column;
 }
 
-.color-a {
-  display: flex;
-}
-
 .red {
   width: 400px;
   height: 100px;
   background: #f00;
 }
 
-.white {
-  top: 20px;
-  right: 20px;
+.color-a {
+  background-color: white;
+  padding: 10px;
 }
 
 .purple {
@@ -39,7 +35,15 @@ a {
   height: 40px;
   margin-left: 10px;
   background: #6729a0;
-  padding: 10px;
+}
+
+.white {
+  top: 20px;
+  right: 20px;
+}
+
+.color-b {
+  display: flex;
 }
 
 .green {
