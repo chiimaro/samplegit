@@ -64,7 +64,15 @@ a {
   background: #ff863f;
   margin: 5px;
   padding: 10px;
+  box-shadow: 0 0 0 5px white;
 /*青divのtopとleftからの距離  40px（marginで位置の指定）*/
+}
+
+.color-c {
+  display: flex;
+  gap: 10px;
+  background-color: #ccc;
+  padding: 20px;
 }
 
 .yellow {
