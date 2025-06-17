@@ -25,7 +25,7 @@ a {
   height: 100px;
   background: #f00;
   align-items: center;
-  padding-left: 10px; 
+  padding-right: 10px; 
 }
 
 .purple {
@@ -35,7 +35,6 @@ a {
   margin-left: 10px;
   background: #6729a0;
   padding: 10px;
-  box-sizing: border-box;
 }
 
 .white {
