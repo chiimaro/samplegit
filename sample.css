@@ -40,7 +40,7 @@ a {
   margin-left: 10px;
   background: #6729a0;
   margin: 10px;
-  border: 10px;
+  border: 10px solid white;
 }
 
 .green {
