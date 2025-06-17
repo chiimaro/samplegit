@@ -28,22 +28,22 @@ a {
   padding-left: 10px;
 }
 
-.purple {
-  width: 40px;
-  height: 40px;
+.white1 {
+  background: white;
+  padding: 5px;
   margin-left: 10px;
-  background: #6729a0;
-  padding: 10px;
   box-sizing: border-box;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.white1 {
-  width: 100%;
-  height: 100%;
-  background: white;
+.purple {
+  width: 40px;
+  height: 40px;
+  background: #6729a0;
+  margin-left: 10px;
+  padding: 10px;
 }
 
 .white {
