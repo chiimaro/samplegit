@@ -24,6 +24,7 @@ a {
   width: 400px;
   height: 100px;
   background: #f00;
+  align-items: center;
   padding-left: 10px; 
 }
 
