@@ -75,7 +75,8 @@ a {
   width: 140px;
   height: 40px;
   background: #ff863f;
-  /*青divのtopとleftからの距離  40px（marginで位置の指定）*/
+  margin-top: 40px;
+  margin-left: 40px;
 }
 
 .yellow {
