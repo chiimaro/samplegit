@@ -54,7 +54,7 @@ a {
 
 .blue {
   width: 250px;
-  height: 250px;
+  /*height: 250px;*/
   background: #2563eb;
   display: flex;
   flex-direction: column;
