@@ -57,7 +57,7 @@ a {
   width: 250px;
   height: 250px;
   background: #2563eb;
-  padding: 20px;
+
   display: flex;
   flex-direction: column;
   gap: 10px;
