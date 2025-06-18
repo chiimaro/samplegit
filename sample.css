@@ -56,7 +56,8 @@ a {
 .blue {
   width: 250px;
   height: 250px;
-  background: #2563eb; 
+  background: #2563eb;
+  padding: 20px;
   display: flex;
   flex-direction: column;
   gap: 10px;
@@ -65,9 +66,6 @@ a {
 .white2 {
   background: white;
   padding: 10px;
-  display: flex;
-  gap: 10px;
-  border: 1px solid #2563eb;
 }
 
 .orange {
