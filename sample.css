@@ -29,12 +29,12 @@ a {
   padding-right: 20px;
 }
 
-.white {
+.white1 {
   background: white;
   padding: 10px;
   display: flex;
   gap: 10px;
-  border: 1px solid red;
+  border: 1px solid #f00;
 }
 
 .purple {
@@ -60,6 +60,14 @@ a {
   display: flex;
   flex-direction: column;
   gap: 10px;
+}
+
+.white2 {
+  background: white;
+  padding: 10px;
+  display: flex;
+  gap: 10px;
+  border: 1px solid #2563eb;
 }
 
 .orange {
