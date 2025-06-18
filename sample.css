@@ -1,5 +1,4 @@
 /* frist commit */
-/*オレンジを修正*/
 
 * {
   box-sizing: border-box;
@@ -57,13 +56,10 @@ a {
   width: 250px;
   height: 250px;
   background: #2563eb;
-  padding: 20px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   gap: 10px;
-  margin-top: 40px;
-  margin-left: 40px;
 }
 
 .white2 {
@@ -71,6 +67,8 @@ a {
   padding: 5px;
   display: inline-flex; 
   margin-bottom: 10px;
+  margin-left: 40px;
+  margin-top: 40px;
 }
 
 .orange {
