@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="sample.css">
 </head>
 <body>
-    <div class="color">
+    <div class="container">
         <div class="red">
              <div class="white">
                 <div class="purple"></div>
@@ -14,7 +14,7 @@
                 <div class="purple"></div>
             </div>
         </div>
-        <div class="color-b">
+        <div class="container-b">
             <div class="green"></div>
             <div class="blue">
                 <div class="white2">

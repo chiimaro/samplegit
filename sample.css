@@ -1,4 +1,4 @@
-/* frist commit */
+/* first commit */
 
 * {
   box-sizing: border-box;
@@ -9,16 +9,13 @@ body {
   font-family: "Hiragino Kaku Gothic ProN";
 }
 
-a {
-  text-decoration: none;
-}
-
-.color { 
+.container { 
   display: flex;
   flex-direction: column;
 }
 
 .red {
+  position: relative;
   display: flex;
   width: 400px;
   height: 100px;
@@ -29,6 +26,9 @@ a {
 }
 
 .white {
+  position: absolute;
+  top: 20px;
+  right: 20px;
   background: white;
   padding: 10px;
   display: flex;
@@ -42,7 +42,7 @@ a {
   background: #6729a0;
 }
 
-.color-b {
+.container-b {
   display: flex;
 }
 
