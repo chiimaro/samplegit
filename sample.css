@@ -61,10 +61,21 @@ body {
 }
 
 .white2 {
+  position: absolute;
+  right: 20px;
   background: white;
   padding: 5px;
   width: fit-content;
-  box-sizing: border-box;
+}
+
+.white2:nth-of-type(1) {
+  top: 40px;
+}
+.white2:nth-of-type(2) {
+  top: 95px;
+}
+.white2:nth-of-type(3) {
+  top: 150px;
 }
 
 .orange {
