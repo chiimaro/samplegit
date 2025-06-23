@@ -12,6 +12,7 @@ body {
 .container {
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 .red {
@@ -44,6 +45,9 @@ body {
 
 .container-b {
   display: flex;
+  width: 400px;
+  margin: 0 auto;
+  justify-content: center;
 }
 
 .green {
@@ -56,20 +60,18 @@ body {
   width: 250px;
   height: 250px;
   background: #2563eb;
-  margin-top: 40px;
-  margin-left: 40px;
+  margin-left: 0px;
+  margin-top: 0px;
   display: flex;
   flex-direction: column;
   gap: 10px;
-  padding: 5px;
-  box-sizing: border-box;
+  padding: 40px 0 0 40px;
 }
 
 .white2 {
   background: white;
   padding: 5px;
   width: fit-content;
-  box-sizing: border-box;
 }
 
 .orange {
