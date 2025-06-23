@@ -40,6 +40,7 @@ body {
 
 .container-b {
   display: flex;
+  padding: 40px 0 0 40px;
 }
 
 .green {
@@ -51,7 +52,6 @@ body {
 .blue {
   width: 250px;
   background: #2563eb;
-  margin: 40px 0 0 40px;
   display: flex;
   flex-direction: column;
   gap: 10px;
