@@ -56,18 +56,18 @@ body {
   width: 250px;
   height: auto;
   background: #2563eb;
-  margin-top: 40px;   /* 青divの top からの距離 */
-  margin-left: 40px;  /* 青divの left からの距離 */
+  margin-top: 40px;
+  margin-left: 40px;
   display: flex;
   flex-direction: column;
-  gap: 10px;          /* オレンジdiv同士の距離 */
-  padding: 5px;       /* 白divの周囲余白 */
+  gap: 10px;
+  padding: 5px;
   box-sizing: border-box;
 }
 
 .white2 {
   background: white;
-  padding: 5px;       /* オレンジdivの周囲余白 */
+  padding: 5px;
   width: fit-content;
   box-sizing: border-box;
 }
