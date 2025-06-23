@@ -1,4 +1,4 @@
-/* frist commit */
+/* first commit */
 
 * {
   box-sizing: border-box;
@@ -6,16 +6,14 @@
 
 body {
   margin: 0;
-  font-family: "Hiragino Kaku Gothic ProN";
+  font-family: "Hiragino Kaku Gothic ProN", sans-serif;
 }
 
-a {
-  text-decoration: none;
-}
-
-.color { 
+.container { 
   display: flex;
   flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
 }
 
 .red {
@@ -44,6 +42,7 @@ a {
 
 .color-b {
   display: flex;
+  gap: 0;
 }
 
 .green {
@@ -60,7 +59,6 @@ a {
   flex-direction: column;
   align-items: flex-start;
   gap: 10px;
-  margin: 0;
   padding: 40px 0 0 40px;
   overflow: hidden;
 }
@@ -70,7 +68,6 @@ a {
   padding: 5px;
   display: flex;
   width: fit-content;
-  box-sizing: border-box;
 }
 
 .orange {
