@@ -40,7 +40,6 @@ body {
 
 .container-b {
   display: flex;
-  position: relative;
 }
 
 .green {
@@ -51,13 +50,15 @@ body {
 
 .blue {
   width: 250px;
+  height: auto;
   background: #2563eb;
   margin-top: 40px;
   margin-left: 40px;
   display: flex;
   flex-direction: column;
   gap: 10px;
-  padding: 5px 20px 5px 20px; /* 上下5px, 左右20pxの余白 */
+  padding: 5px;
+  box-sizing: border-box;
 }
 
 .white2 {
