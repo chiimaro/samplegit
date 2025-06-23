@@ -21,6 +21,8 @@ body {
   height: 100px;
   background: #f00;
   align-items: center;
+  justify-content: flex-end;
+  padding-right: 20px;
 }
 
 .white {
@@ -49,22 +51,20 @@ body {
   height: 250px;
   background: #0a5;
 }
+
 .blue {
   width: 250px;
   background: #2563eb;
   margin: 40px 0 0 40px;
+  position: relative;
   display: flex;
   flex-direction: column;
+  align-items: flex-end;
   gap: 10px;
 }
 
-.white2-wrapper {
-  position: relative;
-  height: 60px; 
-}
-
 .white2 {
-  position: absolute;
+  position: relative;
   top: 20px;
   right: 20px;
   background: white;
