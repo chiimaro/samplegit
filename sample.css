@@ -67,7 +67,7 @@ body {
 
 .white2 {
   background: white;
-  padding: 5px;       /* オレンジdivの周囲余白 */
+  padding: 5px;
   width: fit-content;
   box-sizing: border-box;
 }
